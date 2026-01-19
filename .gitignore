@@ -1,3 +1,4 @@
 env
 .vscode
 amazon_e_commerce_bot.egg-info
+.env

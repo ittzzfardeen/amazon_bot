@@ -1,0 +1,1 @@
+from langchain_astradb import AstraDBVectorStore
