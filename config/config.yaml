@@ -1,0 +1,16 @@
+
+
+
+astra_db:
+  collection_name: "chatbot"
+
+embedding_model:
+  provider: "groq"
+  model_name: "BAAI/bge-large-en-v1.5"
+
+retriever:
+  top_k: 10
+
+llm:
+  provider: "meta"
+  model_name: "llama-3.1-8b-instant"
